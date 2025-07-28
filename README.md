@@ -8,19 +8,30 @@ A Flutter application that integrates Google Maps with real-time location servic
 
 ## ✨ Features
 
-- 📍 **Real-time Location Tracking** - Get your current location with GPS precision
-- 🗺️ **Interactive Google Maps** - Smooth map interactions with custom markers
-- 🛣️ **Route Planning** - Calculate optimal routes between two points
-- ⏱️ **Distance & Duration** - Real-time distance and travel time calculations
-- 📌 **Custom Markers** - Long-press to add origin and destination markers
-- 🎯 **Camera Controls** - Smooth camera animations to focus on locations
+- 📍 **Real-time Location Tracking** - Get your current location with GPS precision  
+- 🗺️ **Interactive Google Maps** - Smooth map interactions with custom markers  
+- 🛣️ **Route Planning** - Calculate optimal routes between two points  
+- ⏱️ **Distance & Duration** - Real-time distance and travel time calculations  
+- 📌 **Custom Markers** - Long-press to add origin and destination markers  
+- 🎯 **Camera Controls** - Smooth camera animations to focus on locations  
 - 🧭 **Navigation Ready** - Polyline routes with turn-by-turn directions
+
+---
+
+> ⚠️ **Important Note**  
+> This application is currently **not fully functional** due to a recent change in Google Cloud's billing policy.  
+> The **Directions API** now **requires an active billing account** to function properly, even for development purposes.  
+> As a result, features like **route calculation and navigation** may not work unless billing is enabled in your Google Cloud Console.  
+>
+> 💳 If you're a student, you can explore the [Google Cloud Student Credits](https://cloud.google.com/free/docs/student-credits) program to get free access.
+
+---
 
 ## 📱 Screenshots
 
-| Map View | Route Planning | Location Tracking |
-|----------|----------------|-------------------|
-| <img width="818" height="1647" alt="image" src="https://github.com/user-attachments/assets/e6104cd7-1edb-4ce0-9c18-35b6884ea2b1" /> | <img width="818" height="1648" alt="image" src="https://github.com/user-attachments/assets/6999c7d0-d706-481c-be25-a44400da7ff7" /> | <img width="818" height="1647" alt="image" src="https://github.com/user-attachments/assets/b8a3a80d-56cb-4aa4-9286-13c4e1788859" /> |
+| 🗺️ Map View | 🧭 Route Planning | 📍 Location Tracking |
+|-------------|------------------|-----------------------|
+| <img src="https://github.com/user-attachments/assets/e6104cd7-1edb-4ce0-9c18-35b6884ea2b1" width="250" /> | <img src="https://github.com/user-attachments/assets/6999c7d0-d706-481c-be25-a44400da7ff7" width="250" /> | <img src="https://github.com/user-attachments/assets/b8a3a80d-56cb-4aa4-9286-13c4e1788859" width="250" /> |
 
 ## 🚀 Getting Started
 
